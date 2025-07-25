@@ -34,7 +34,7 @@ const Hero = ({scrollToRef}) => {
         </div>
 
         {/* BRAND LOGOS SECTION */}
-        <div className="w-full overflow-hidden mt-20">
+        <div className="w-full overflow-hidden mt-23">
             <div className="flex whitespace-nowrap animate-marquee items-center gap-14 w-max">
                 {[...brandLogos, ...brandLogos, ...brandLogos, ...brandLogos].map((logo, idx) => (
                     <img key={idx} src={logo} alt="brand" className="h-6 sm:h-8 object-contain" />
