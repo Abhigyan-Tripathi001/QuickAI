@@ -41,9 +41,10 @@ A **Full-Stack AI-Powered Content Creation Platform** that enables users to **wr
 ![Clerk](https://img.shields.io/badge/-Clerk%20Auth-F02E65?style=flat-square&logo=clerk&logoColor=white)
 ![Clerk Billing](https://img.shields.io/badge/-Clerk%20Billing-7F00FF?style=flat-square&logo=clerk&logoColor=white)
 
-#### 📦 **Hosting & Deployment**
+#### 📦 **Tools & Deployment**
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Neon DB](https://img.shields.io/badge/-Neon%20PostgreSQL-0081C9?style=flat-square&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
