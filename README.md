@@ -6,7 +6,7 @@ A **Full-Stack AI-Powered Content Creation Platform** that enables users to **wr
 
 ### ➥ 🌐 Live Website
 
-🔗 **Live App ** →
+🔗 **Live App** →
 👤<a href="https://quick-ai-flame.vercel.app/" target="_blank">quick-ai-flame.vercel.app
 
 ---
