@@ -31,7 +31,7 @@ A **Full-Stack AI-Powered Content Creation Platform** that enables users to **wr
 #### ⚙️ **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neon DB](https://img.shields.io/badge/-Neon%20PostgreSQL-0081C9?style=flat-square&logo=postgresql&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
 
 #### 🧠 **AI & APIs**
