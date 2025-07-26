@@ -13,6 +13,8 @@ A **Full-Stack AI-Powered Content Creation Platform** that enables users to **wr
 
 ## 📸 Screenshots  
 ><img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/33c93633-98bb-4841-935f-56c67d4ae19f" />
+><img width="1894" height="904" alt="image" src="https://github.com/user-attachments/assets/13f3ce88-181e-425c-8c33-fa73ac2ec79e" />
+
 
 
 ---
