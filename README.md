@@ -12,8 +12,8 @@ A **Full-Stack AI-Powered Content Creation Platform** that enables users to **wr
 ---
 
 ## 📸 Screenshots  
-> *(Add your screenshot links here or upload images)*  
-> <img width="717" alt="QuickAI Home" src="https://your-screenshot-link.com/home.png" />
+><img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/33c93633-98bb-4841-935f-56c67d4ae19f" />
+
 
 ---
 
